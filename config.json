@@ -1,7 +1,8 @@
 {
   "config": {
     "version": "test",
-    "script_name": "TESTING"
+    "script_name": "TESTING",
+    "update_link": "https://yourlink.com/script.lua"
   },
   "test": {
     "password": "test",
