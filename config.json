@@ -2,5 +2,11 @@
   "config": {
     "version": "1.2",
     "script_name": "TESTING"
+  },
+  "kinzi": {
+    "password": "kinz",
+    "expiry": "20/20/2026",
+    "device": "123",
+    "sid": "TOOL"
   }
 }
