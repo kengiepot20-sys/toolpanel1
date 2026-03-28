@@ -1,12 +1,6 @@
 {
   "config": {
     "version": "1.2",
-    "script_name": "TESTING",
-  },
-  "test": {
-    "password": "test",
-    "expiry": "test",
-    "device": "test",
-    "sid": "test"
+    "script_name": "TESTING"
   }
 }
