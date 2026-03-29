@@ -14,5 +14,11 @@
     "expiry": "4/25/2026",
     "device": "1771033509",
     "sid": "TOOL"
+  },
+  "key": {
+    "password": "key",
+    "expiry": "10/10/2027",
+    "device": " ",
+    "sid": "TOOL"
   }
 }
