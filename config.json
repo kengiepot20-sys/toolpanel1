@@ -20,5 +20,11 @@
     "expiry": "10/10/2027",
     "device": "",
     "sid": "TOOL"
+  },
+  "salmon": {
+    "password": "123456",
+    "expiry": "14/3/2162",
+    "device": "1771033509",
+    "sid": "TOOL"
   }
 }
